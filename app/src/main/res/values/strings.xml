@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Course Project</string>
+    <string name="login">Login</string>
+    <string name="Email">Email</string>
+    <string name="Password">Password</string>
+    <string name="login_btn">Login</string>
+    <string name="register">Register</string>
+    <string name="register_btn">Register</string>
+    <string name="click_to_login">Click to Login</string>
+    <string name="click_to_register">Click to Register</string>
+    <string name="logout">Logout</string>
+    <string name="camera_access_text">Do you want to allow access to your camera?</string>
+    <string name="deny">Deny</string>
+    <string name="allow">Allow</string>
+    <string name="do_you_want_to_allow_access_to_your_location">Do you want to allow access to your location?</string>
+    <string name="use_fingerprint">Use Fingerprint</string>
+
+
+</resources>

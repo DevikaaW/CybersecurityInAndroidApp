@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "64481190613",
+    "project_id": "courseproject-cfae0",
+    "storage_bucket": "courseproject-cfae0.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:64481190613:android:1da740af1d4102e260385c",
+        "android_client_info": {
+          "package_name": "com.example.courseproject"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB0ryNQDej7KP9C8nkcoe3ajWIxwOayZes"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
